@@ -83,6 +83,8 @@ body,html{
         margin-top: -16%;
         margin-left: -6%;	
         position:fixed;
+        top:50;
+        left:auto;
         border-radius: 50%;
         border-width: 6px;
           border-style: dashed;
