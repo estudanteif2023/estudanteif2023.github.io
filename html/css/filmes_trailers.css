@@ -1,0 +1,18 @@
+.dentro_box{
+display: inline-block;
+vertical-align: middle;
+margin: 10px;
+padding: 5px;
+}
+
+#dentro_box-1{
+text-align: center;
+}
+
+#dentro_box-2{
+text-align: center;
+}
+
+p{
+font-family: arial, sans-serif;
+}

@@ -1,0 +1,23 @@
+.box{
+	padding: 10px;
+	display: inline-block;
+}
+	
+#box-1{
+border-radius: 50px;
+border-width: 6px;
+border-style: dashed;
+border-color: rgba(0,0,0,.5);
+vertical-align: middle;
+text-align: center;
+width: 15%;
+height: 100%;	
+}
+
+#box-2{ 
+vertical-align: middle;
+text-align: center;
+width: 80%;
+height: 100%;
+}
+
